@@ -203,24 +203,6 @@
 .table-title1 li.active a {color: #333;}
 .table-title1 .detail {position: absolute; right: 0; top: 0; font-size: 18px; color: #1d7abd;}
 
-/*table-style1 
-.table-style1 {}
-.table-style1 table {border-top: 2px solid #6f6f6f; border-bottom: 1px solid #9a9a9a; }
-.table-style1 table thead {  border-bottom: 1px solid #e4e4e4;  }
-.table-style1 table thead th {padding: 20px 0; background-color: #f9fafc;  border-bottom: 1px solid #ccc; font-size: 15px;border-right: 1px solid #e4e4e4;  }
-.table-style1 table thead th:last-child{border-right: none;}
-.table-style1 tbody {text-align: left; }
-.table-style1 tbody tr { border-bottom: 1px solid #e4e4e4; font-weight: 400; border-right: 1px solid #e4e4e4; }
-.table-style1 tbody td {border-right: 1px solid #e4e4e4; border-bottom: 1px solid #e4e4e4; font-size: 28px; padding:15px;font-weight: 400; }
-.table-style1 tbody td:last-child {border-right: none;}
-.table-style1 tbody tr td.ie1 {font-size: 20px; padding:30px; font-weight: 300; }
-.table-style1 tbody tr td.ie2 {font-size: 24px; padding:30px; text-align: center; }
-.table-style1 tbody tr h3 {font-size: 28px;}
-.table-style1 tbody span {vertical-align: 5px; display: inline-block;margin-left: 5px;padding: 0 6px; background: #ff9900;color: #fff; font-size: 14px; }
-.table-style1 tbody em {font-size: 16px;	}
-.table-style1 tbody td button { background-color: #3090d6;  border: 1px solid transparent; padding:7px 35px; color: #fff; font-size: 16px; }
-.more {padding: 20px 0 50px; text-align: center; font-size: 15px; color: #333;}
-.text ul {text-align:left; font-size: 16px;	color:#666;}*/
 
 /* product-table */
 .product-table {padding: 80px 0;}
@@ -245,14 +227,6 @@
 .table-style1 .view {display: inline-block; padding: 5px 45px; color: #fff; background-color: #3090d6; font-size: 16px;  }
 
 
-/* table-style2 
-.select2 {overflow: hidden; padding: 70px 0; }
-.select2 h3 {float: left;  font-size: 40px; color:#fff; width: 400px; font-weight: 300; line-height: 1.3; letter-spacing: -2px;}
-.select2 > div{float: left; width: 22%; margin-left: 1.5%; padding: 40px 38px 54px 40px; height: 250px; }
-.select2 > div.simg1{background: #2886ca url(../img/select2-bg1.png) no-repeat 40px 50px; }
-.select2 > div.simg2{background: #2886ca url(../img/select2-bg2.png) no-repeat 40px 50px; }
-.select2  h4 { float: left; font-size: 18px; color: #fff; padding-bottom: 10px; padding-top: 140px;}
-.select2 p { float: left; font-size: 15px; color: #fff;  letter-spacing: -1px; font-weight: 300; color: #d2f0ff; }*/
 
 /* .select2 */
 .select2 {overflow: hidden; padding: 70px 0;   }
@@ -274,6 +248,37 @@
 .select5 > div.simg5 {background: #2886ca url(../img/select-bg2.png) no-repeat 30px 30px; background-size: 90px; margin-right: 0%; }
 .select5 > div  h4 {font-size: 18px; color: #fff; padding-bottom: 20px; padding-top: 150px;  }
 .select5 > div  p {font-size: 15px; color: #fff; }
+
+
+/*table-style1 
+.table-style1 {}
+.table-style1 table {border-top: 2px solid #6f6f6f; border-bottom: 1px solid #9a9a9a; }
+.table-style1 table thead {  border-bottom: 1px solid #e4e4e4;  }
+.table-style1 table thead th {padding: 20px 0; background-color: #f9fafc;  border-bottom: 1px solid #ccc; font-size: 15px;border-right: 1px solid #e4e4e4;  }
+.table-style1 table thead th:last-child{border-right: none;}
+.table-style1 tbody {text-align: left; }
+.table-style1 tbody tr { border-bottom: 1px solid #e4e4e4; font-weight: 400; border-right: 1px solid #e4e4e4; }
+.table-style1 tbody td {border-right: 1px solid #e4e4e4; border-bottom: 1px solid #e4e4e4; font-size: 28px; padding:15px;font-weight: 400; }
+.table-style1 tbody td:last-child {border-right: none;}
+.table-style1 tbody tr td.ie1 {font-size: 20px; padding:30px; font-weight: 300; }
+.table-style1 tbody tr td.ie2 {font-size: 24px; padding:30px; text-align: center; }
+.table-style1 tbody tr h3 {font-size: 28px;}
+.table-style1 tbody span {vertical-align: 5px; display: inline-block;margin-left: 5px;padding: 0 6px; background: #ff9900;color: #fff; font-size: 14px; }
+.table-style1 tbody em {font-size: 16px;	}
+.table-style1 tbody td button { background-color: #3090d6;  border: 1px solid transparent; padding:7px 35px; color: #fff; font-size: 16px; }
+.more {padding: 20px 0 50px; text-align: center; font-size: 15px; color: #333;}
+.text ul {text-align:left; font-size: 16px;	color:#666;}*/
+
+
+
+/* table-style2 
+.select2 {overflow: hidden; padding: 70px 0; }
+.select2 h3 {float: left;  font-size: 40px; color:#fff; width: 400px; font-weight: 300; line-height: 1.3; letter-spacing: -2px;}
+.select2 > div{float: left; width: 22%; margin-left: 1.5%; padding: 40px 38px 54px 40px; height: 250px; }
+.select2 > div.simg1{background: #2886ca url(../img/select2-bg1.png) no-repeat 40px 50px; }
+.select2 > div.simg2{background: #2886ca url(../img/select2-bg2.png) no-repeat 40px 50px; }
+.select2  h4 { float: left; font-size: 18px; color: #fff; padding-bottom: 10px; padding-top: 140px;}
+.select2 p { float: left; font-size: 15px; color: #fff;  letter-spacing: -1px; font-weight: 300; color: #d2f0ff; }*/
 
 
 /* infor1 
